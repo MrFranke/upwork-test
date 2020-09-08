@@ -1,0 +1,15 @@
+.Wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Chart {
+    text-align: center;;
+}
+
+.Label {
+    position: absolute;
+    font-size: .9rem;
+    font-weight: bold;
+}

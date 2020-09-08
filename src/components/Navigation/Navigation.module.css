@@ -1,0 +1,45 @@
+.Navigation {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background: #43627d;
+    color: #fff;
+}
+
+.Header {
+    font-size: 1.4rem;
+    text-align: center;
+}
+
+.Logo {
+    border-radius: 100%;
+    vertical-align: center;
+}
+
+.List {
+    height: 100%;
+    list-style: none;
+    margin: 0;
+    padding: 20px 15px;
+    font-size: 1.3rem;
+}
+
+.List li {
+    margin-bottom: 10px;
+}
+
+.List a {
+    color: #fff;
+}
+
+.Icon {
+    font-size: 1.5rem;
+    margin-right: 10px;
+}
+
+.Footer {
+    background: #325471;
+    padding: 20px 10px;
+    font-size: 1.2em;
+    text-align: center;
+}
